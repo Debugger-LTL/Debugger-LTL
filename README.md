@@ -5,8 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-- 🌱 I’m currently learning everything I like
-- ⚡ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset
+- 🌱 I enjoy learning new technologies
+- ⚡ I'm currently learning everything I like
+- 🫵 I'm constantly seeking opportunities to expand my skillset
 - 📫 How to contact me? 👉 by email
 - 😄 Pronouns: Practice makes perfect
 
