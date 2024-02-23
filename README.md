@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm L_TiLer</h1>
 
 <span align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Debugger-LTL&show_icons=true&count_private=true&theme=gotham">
+  <img src="https://wakatime.com/share/@maya/68ae23b9-0a9e-442f-9851-cecd91ee628d.svg" style="width: 450px"; align="right";> </img>
 </span>  
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
