@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm L_TiLer</h1>
 
 <span align="right">
-  <img src="https://wakatime.com/share/@maya/68ae23b9-0a9e-442f-9851-cecd91ee628d.svg" style="width: 500px"; align="right";> </img>
+  <img src="https://wakatime.com/share/@maya/68ae23b9-0a9e-442f-9851-cecd91ee628d.svg" style="width: 400px"; align="right";> </img>
 </span>  
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
